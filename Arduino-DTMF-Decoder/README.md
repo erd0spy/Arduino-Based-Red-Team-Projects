@@ -9,6 +9,7 @@ Video will add soon.
    <li>Arduino Pro Micro 32U4</li>
    <li>MT8870 DTMF</li>
    <li>3.5 mm Male to Male Stereo Audio Aux Cable</li>
+   <li>USB to Micro USB cable</li>
 </ul>
 
 <b>Pin Connections:</b>
