@@ -27,3 +27,6 @@ Arduino > Decoder
 <br>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/58850695/119452172-b65b7080-bd3e-11eb-82a5-bd016f7a098a.png" alt="resim" /></div>
+
+<div align="center"><img src="https://user-images.githubusercontent.com/58850695/123430063-69361d00-d5d0-11eb-9fce-64fb262cc6f1.png" alt="resim" /></div>
+
