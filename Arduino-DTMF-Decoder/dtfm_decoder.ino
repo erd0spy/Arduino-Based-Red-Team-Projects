@@ -14,9 +14,14 @@ void dtmfDecode(void){
    int STDState = 0;
    int IOState = 0;
    
-    STDState = digitalRead(STD);
+   STDState = digitalRead(STD);
     
-    if(STDState) {if(STDat < 100) STDat ++;}  else STDat = 0;
+   if(STDState){
+      if(STDat < 100) 
+         STDat ++;
+   }
+   else 
+      STDat = 0;
 
     if(STDat==3){
        QDat = 0x00;
